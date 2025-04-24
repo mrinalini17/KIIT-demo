@@ -1,1 +1,8 @@
-git config --golbal user.name "name"
+body{
+    background-color: black;
+}
+h1{
+    color: aqua;
+    text-align: center;
+    font-style: italic;
+}
